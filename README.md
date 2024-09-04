@@ -20,12 +20,18 @@ Below are the instructions for this assignment. Your repository should automatic
 * Wednesday (9/4)
 * Please submit whatever code you complete in class for your repository before the end of class, and complete the survey before midnight.
 
-### 📝 TODO: Complete this section
+### 📝 Complete this section
 
 * **Your name and PID**:
+* Rodrigo Pardini Azzolin
+* rodbot
 
 * **Your partner's name and PID:**
+* Wills McGraw
+* willsmcgraw21
 
 * **Link to selected coding challenge:**
+* https://leetcode.com/problems/maximum-average-subarray-i/?envType=study-plan-v2&envId=leetcode-75
 
 * **Summary of partner's interview feedback:**
+* He helped me with an error in the iteration logic of the inner loop.
